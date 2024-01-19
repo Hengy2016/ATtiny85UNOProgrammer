@@ -23,3 +23,5 @@ Really simple circuit
 Select resistors to give your prefered LED brightness.
 
 Capacitor values are as recommended but anything similar will work - i used 47 uF for the electrolytic and it was fine. 
+
+The blue LED is on the ATtiny85 digital pin 3 - I use it as a quick check that the an ATtiny85 is ok by uploading a script that pulses that output. I also tend to use that pin as a digital out so it is a good visual check that the chip has been programmed successfully.
