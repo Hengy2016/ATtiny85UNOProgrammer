@@ -2,7 +2,7 @@
 
 ![3d board](/docs/3d_view.png)
 
-Simple little board for an ATtiny85 programmer for a UNO
+Simple little board for an ATtiny85 programmer for a UNO (plugs directly into the UNO )
 
 Status LEDs are based on the default pinouts in ATTinyCore board as per the ArduinoISP example sketch
 copied here :
